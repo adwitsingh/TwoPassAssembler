@@ -10,11 +10,12 @@ resolved, the program will not generate machine code or symbol/opcode table.
 
 ## OpCodes Used:
 
-
+![OpCodes Used](https://github.com/adwitsingh/TwoPassAssembler/blob/master/OpcodeGuide.png)
 
 ## Types of Instructions:
 
 Type 0: Instructions containing no argument.
+
 Type 1: Instruction containing one argument.
 
 ## Syntax Used and Assumptions:
