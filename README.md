@@ -108,3 +108,7 @@ L2: STP
 1. Variables are assigned addresses
 2. Data tables constructed in pass one are used to create the final machine code as a
 .txt file.
+
+## Authors:
+- Adwit Singh Kochar - [adwitsingh](https://github.com/adwitsingh)
+- Pragyan Mehrotra - [pragyanmehrotra](https://github.com/pragyanmehrotra)
